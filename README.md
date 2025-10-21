@@ -34,7 +34,7 @@ puf_project/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/puf-simulator.git
+https://github.com/AshisYadav2004-ops/PUF-simulator-Python-Project-.git
 cd puf-simulator
 ```
 
